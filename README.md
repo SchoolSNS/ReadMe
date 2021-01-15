@@ -70,11 +70,11 @@ ServerFrameWork|Django/NodeJs|
 ------------   
     
 ## [🖥기능]  
-   |<p align="center"><img src="https://user-images.githubusercontent.com/56965398/104541915-e3e42f00-5665-11eb-8bf4-fd6191fdda15.png"  width="60%"></p>|후배가 해당 고등학교에 궁굼한 점이 있으면 질문 게시판에 올리고 선배가 답변을 해주는 기능
+   |<p align="center"><img src="https://user-images.githubusercontent.com/56965398/104541915-e3e42f00-5665-11eb-8bf4-fd6191fdda15.png"  width="40%"></p>|후배가 해당 고등학교에 궁굼한 점이 있으면 질문 게시판에 올리고 선배가 답변을 해주는 기능
    |---|---|
-   |<p align="center"><img src="https://user-images.githubusercontent.com/56965398/104542907-bd26f800-5667-11eb-82b6-8eb1076c7522.png" width="60%"></p>|후배가 궁금한 점을 질문으로 작성할 수 있는 기능
-   |<p align="center"><img src="https://user-images.githubusercontent.com/56965398/104543093-1d1d9e80-5668-11eb-80f8-c7c7653b7f79.png" width="60%"></p>|후배가 게시글을 업로드 하면 선배에게 알림이 가고, 후배의 경우 답변을 받았을 때 알림이 간다
-   |<p align="center"><img src="https://user-images.githubusercontent.com/56965398/104543513-ed22cb00-5668-11eb-927c-44eab0139d64.png" width="90%"></p>|선 후배 간 1:1 상담 채팅 기능|   
+   |<p align="center"><img src="https://user-images.githubusercontent.com/56965398/104542907-bd26f800-5667-11eb-82b6-8eb1076c7522.png" width="40%"></p>|후배가 궁금한 점을 질문으로 작성할 수 있는 기능
+   |<p align="center"><img src="https://user-images.githubusercontent.com/56965398/104543093-1d1d9e80-5668-11eb-80f8-c7c7653b7f79.png" width="40%"></p>|후배가 게시글을 업로드 하면 선배에게 알림이 가고, 후배의 경우 답변을 받았을 때 알림이 간다
+   |<p align="center"><img src="https://user-images.githubusercontent.com/56965398/104543513-ed22cb00-5668-11eb-927c-44eab0139d64.png" width="70%"></p>|선 후배 간 1:1 상담 채팅 기능|   
     
 ------------   
     
